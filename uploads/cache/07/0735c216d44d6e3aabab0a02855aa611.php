@@ -14,7 +14,7 @@ use Twig\Source;
 use Twig\Template;
 
 /* installer/install.twig.html */
-class __TwigTemplate_725429d4cc77b5ae3c2fbce1a0328d7e extends Template
+class __TwigTemplate_18a8b441a0fb3e4fc9de981e8afafc72 extends Template
 {
     private $source;
     private $macros = [];
@@ -182,6 +182,6 @@ For info about editing, see: https://twig.symfony.com/doc/2.x/
     {% endif %}
 
 {% endblock beforePage %}
-", "installer/install.twig.html", "/var/www/html/gibbon/resources/templates/installer/install.twig.html");
+", "installer/install.twig.html", "/var/www/html/resources/templates/installer/install.twig.html");
     }
 }

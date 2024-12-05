@@ -14,7 +14,7 @@ use Twig\Source;
 use Twig\Template;
 
 /* page.twig.html */
-class __TwigTemplate_392b74fc5ee04ac2e9f73394e6635f00 extends Template
+class __TwigTemplate_01d2af8e8452482ca3905abc6e26a559 extends Template
 {
     private $source;
     private $macros = [];
@@ -478,6 +478,6 @@ all stylesheets and scripts with a 'head' context.
 {% endif %}
 
 
-", "page.twig.html", "/var/www/html/gibbon/resources/templates/page.twig.html");
+", "page.twig.html", "/var/www/html/resources/templates/page.twig.html");
     }
 }

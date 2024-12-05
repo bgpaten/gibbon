@@ -14,7 +14,7 @@ use Twig\Source;
 use Twig\Template;
 
 /* index.twig.html */
-class __TwigTemplate_e803b112d98ea6a4c8134548ff81c54b extends Template
+class __TwigTemplate_d23a11e4d5dd41fa07baadc4da8a59b6 extends Template
 {
     private $source;
     private $macros = [];
@@ -730,6 +730,6 @@ TODO: add template variable details.
         {% endblock foot %}
     </body>
 </html>
-", "index.twig.html", "/var/www/html/gibbon/resources/templates/index.twig.html");
+", "index.twig.html", "/var/www/html/resources/templates/index.twig.html");
     }
 }

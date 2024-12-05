@@ -14,7 +14,7 @@ use Twig\Source;
 use Twig\Template;
 
 /* footer.twig.html */
-class __TwigTemplate_b59d557eaeb11e58e2948a11bfdde9f7 extends Template
+class __TwigTemplate_946f4b193d8710c0e587ecdacc1056c6 extends Template
 {
     private $source;
     private $macros = [];
@@ -159,6 +159,6 @@ The Gibbon Team
     <br/>
     {{ footerThemeAuthor }}<br/>
 </span>
-", "footer.twig.html", "/var/www/html/gibbon/resources/templates/footer.twig.html");
+", "footer.twig.html", "/var/www/html/resources/templates/footer.twig.html");
     }
 }

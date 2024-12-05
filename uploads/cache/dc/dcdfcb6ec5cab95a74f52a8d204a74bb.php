@@ -14,7 +14,7 @@ use Twig\Source;
 use Twig\Template;
 
 /* head.twig.html */
-class __TwigTemplate_22aa28568191ed7dca2d86fa7f605b7e extends Template
+class __TwigTemplate_a32656e7f8f79a64b47405c65f9373b5 extends Template
 {
     private $source;
     private $macros = [];
@@ -259,6 +259,6 @@ all stylesheets and scripts with a 'head' context.
     {% endfor %}
 
 {% endblock scripts %}
-", "head.twig.html", "/var/www/html/gibbon/resources/templates/head.twig.html");
+", "head.twig.html", "/var/www/html/resources/templates/head.twig.html");
     }
 }

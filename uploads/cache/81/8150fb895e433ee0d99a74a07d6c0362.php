@@ -14,7 +14,7 @@ use Twig\Source;
 use Twig\Template;
 
 /* navigation.twig.html */
-class __TwigTemplate_9d38f9fdee0d8390db26435b6f608985 extends Template
+class __TwigTemplate_4d61734589e021639121172cdad08942 extends Template
 {
     private $source;
     private $macros = [];
@@ -385,6 +385,6 @@ collapsed drop-down list in 'mini' view-mode.
 </div>
 
 {% endif %}
-", "navigation.twig.html", "/var/www/html/gibbon/resources/templates/navigation.twig.html");
+", "navigation.twig.html", "/var/www/html/resources/templates/navigation.twig.html");
     }
 }

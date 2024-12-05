@@ -14,7 +14,7 @@ use Twig\Source;
 use Twig\Template;
 
 /* foot.twig.html */
-class __TwigTemplate_c9e59561931bce374b15b4fa7eade45b extends Template
+class __TwigTemplate_79661c89515edeb26ccf43995959ed08 extends Template
 {
     private $source;
     private $macros = [];
@@ -222,6 +222,6 @@ Useful for scripts that need to execute after the page has loaded.
         </div>
     </div>
 </div>
-", "foot.twig.html", "/var/www/html/gibbon/resources/templates/foot.twig.html");
+", "foot.twig.html", "/var/www/html/resources/templates/foot.twig.html");
     }
 }

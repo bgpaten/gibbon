@@ -14,7 +14,7 @@ use Twig\Source;
 use Twig\Template;
 
 /* privacy.twig.html */
-class __TwigTemplate_afc5b88c3e31a13d7b05a01e0e27955d extends Template
+class __TwigTemplate_9a4f6384397ed763fabfaf1aa16bb4ff extends Template
 {
     private $source;
     private $macros = [];
@@ -153,6 +153,6 @@ Useful for scripts that need to execute after the page has loaded.
     </div>
 
 {% endif %}
-", "privacy.twig.html", "/var/www/html/gibbon/resources/templates/privacy.twig.html");
+", "privacy.twig.html", "/var/www/html/resources/templates/privacy.twig.html");
     }
 }
