@@ -11914,8 +11914,8 @@ msgstr "Scan Dokumen Identitas Resmi"
 msgid "Oh no!"
 msgstr "Oh tidak!"
 
-msgid "Something has gone wrong: the Gibbons have escaped!"
-msgstr "Ada yang tidak beres: Gibbons telah melarikan diri!"
+msgid "Something has gone wrong: the SISTA have escaped!"
+msgstr "Ada yang tidak beres: SISTA telah melarikan diri!"
 
 msgid "Logout"
 msgstr "Keluar"
