@@ -505,14 +505,14 @@ class __TwigTemplate_94ebd0e666d0885549cb7f6ba0b80138 extends Template
         yield Twig\Extension\CoreExtension::include($this->env, $context, "footer.twig.html");
         yield "
 
-                    <img class=\"absolute top-0 -mt-1 hidden sm:block w-32 ";
+                    <!-- <img class=\"absolute top-0 -mt-1 hidden sm:block w-32 ";
         // line 148
         yield ((($context["rightToLeft"] ?? null)) ? ("left-0 sm:ml-0 md:ml-16") : ("right-0 sm:mr-0 md:mr-16"));
         yield "\" alt=\"Logo text-xs\" src=\"";
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(($context["absoluteURL"] ?? null), "html", null, true);
         yield "/themes/";
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(((array_key_exists("gibbonThemeName", $context)) ? (Twig\Extension\CoreExtension::default(($context["gibbonThemeName"] ?? null), "Default")) : ("Default")), "html", null, true);
-        yield "/img/gibbon-white.svg\"/>
+        yield "/img/gibbon-white.svg\"/> -->
                 </div>
             ";
         return; yield '';

@@ -42,51 +42,45 @@ class __TwigTemplate_0e62dcc551fb27b98b03a311c585716f extends Template
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape($this->env->getFunction('__')->getCallable()("Powered by"), "html", null, true);
         yield " <a class=\"text-";
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(($context["themeColour"] ?? null), "html", null, true);
-        yield "-800\" target='_blank' href='https://gibbonedu.org'>Gibbon</a> ";
+        yield "-800\" target='_blank' href='https://mapeline.co.id/'>Mapeline</a> ";
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(($context["versionName"] ?? null), "html", null, true);
         yield "<br/>
 </span> 
 <br/>
 <span class=\"text-xs\">
-    ";
-        // line 31
-        yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape($this->env->getFunction('__')->getCallable()("Founded by Ross Parker at ICHK Secondary"), "html", null, true);
-        yield " | ";
-        yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape($this->env->getFunction('__')->getCallable()("Built by Ross Parker, Sandra Kuipers and the Gibbon community"), "html", null, true);
-        yield "<br/>
     Copyright © <a class=\"text-";
-        // line 32
+        // line 31
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(($context["themeColour"] ?? null), "html", null, true);
-        yield "-800\" target='_blank' href='http://gibbonedu.org'>Gibbon Foundation</a> 2010-";
+        yield "-800\" target='_blank' href='https://mapeline.co.id/'>Mapeline Foundation</a> 2010-";
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape($this->extensions['Twig\Extension\CoreExtension']->formatDate("now", "Y"), "html", null, true);
-        yield " | Gibbon™ of Gibbon Education Ltd. (Hong Kong)<br/>
+        yield " | Mapeline™ of Mapeline Education Ltd. (Depok)<br/>
     ";
-        // line 33
+        // line 32
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape($this->env->getFunction('__')->getCallable()("Created under the"), "html", null, true);
         yield " <a class=\"text-";
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(($context["themeColour"] ?? null), "html", null, true);
         yield "-800\" target='_blank' href='https://www.gnu.org/licenses/gpl.html'>GNU GPL</a> |
     <a class=\"text-";
-        // line 34
+        // line 33
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(($context["themeColour"] ?? null), "html", null, true);
         yield "-800\" target='_blank' href='https://gibbonedu.org/about/#ourTeam'>";
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape($this->env->getFunction('__')->getCallable()("Credits"), "html", null, true);
         yield "</a> | 
     <a class=\"text-";
-        // line 35
+        // line 34
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(($context["themeColour"] ?? null), "html", null, true);
         yield "-800\" target='_blank' href='https://gibbonedu.org/about/#translators'>";
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape($this->env->getFunction('__')->getCallable()("Translators"), "html", null, true);
         yield "</a> | 
     <a class=\"text-";
-        // line 36
+        // line 35
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(($context["themeColour"] ?? null), "html", null, true);
         yield "-800\" target='_blank' href='https://gibbonedu.org/support/'>";
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape($this->env->getFunction('__')->getCallable()("Support"), "html", null, true);
         yield "</a>
     <br/>
     ";
-        // line 38
+        // line 37
         yield $this->env->getRuntime('Twig\Runtime\EscaperRuntime')->escape(($context["footerThemeAuthor"] ?? null), "html", null, true);
         yield "<br/>
 </span>
@@ -115,7 +109,7 @@ class __TwigTemplate_0e62dcc551fb27b98b03a311c585716f extends Template
      */
     public function getDebugInfo()
     {
-        return array (  90 => 38,  83 => 36,  77 => 35,  71 => 34,  65 => 33,  59 => 32,  53 => 31,  42 => 27,  38 => 25,);
+        return array (  84 => 37,  77 => 35,  71 => 34,  65 => 33,  59 => 32,  53 => 31,  42 => 27,  38 => 25,);
     }
 
     public function getSourceContext()
